@@ -1,0 +1,3 @@
+rootProject.name = 'royal_news'
+
+include ':app'
