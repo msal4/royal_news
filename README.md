@@ -2,7 +2,7 @@
 The Royal News App repo
 
 In the project directory using the terminal/cmd run the following command:
-`npm install`
+```npm install```
 to install the required packages.
 
 ***this repo includes the source code to [the news app article][article]***
