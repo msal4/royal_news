@@ -2,8 +2,8 @@
 
 *this repo includes the source code to [the news app article][article]*
 
-In the project directory using the terminal/cmd run the following command:<br />
-```npm install```<br />
+In the project directory using the terminal/cmd run
+```npm install```
 to install all the required packages.<br /><br />
 
 ![mobile preview][image]
