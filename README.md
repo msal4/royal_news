@@ -1,6 +1,6 @@
 # The Royal News App repo
 
-*this repo includes the source code to [medium](https://medium.com/@msal/create-a-news-app-using-react-native-ced249263627) [dev.to](https://dev.to/msal4/how-to-build-a-news-app-with-react-native-4ifd)*
+*this repo includes the source code to How to make a news app with react native article on [medium](https://medium.com/@msal/create-a-news-app-using-react-native-ced249263627) and [dev.to](https://dev.to/msal4/how-to-build-a-news-app-with-react-native-4ifd)*.
 
 In the project directory using the terminal/cmd run
 ```npm install```
