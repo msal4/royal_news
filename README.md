@@ -7,4 +7,4 @@
 * **Feel free to make a pull request😄**<br /><br />
 ![mobile preview](https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg)<br /><br />
 
-***This App uses the ❤️❤️[News API](https://newsapi.org)❤️***
+***This App uses the 💙[News API](https://newsapi.org)💙***
