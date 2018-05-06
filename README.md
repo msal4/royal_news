@@ -1,4 +1,4 @@
-# The Royal News App repo
+# The Royal News App
 
 *The source code to **How to make a news app with react native** article on [medium](https://medium.com/@msal/create-a-news-app-using-react-native-ced249263627) and [dev.to](https://dev.to/msal4/how-to-build-a-news-app-with-react-native-4ifd)*.
 
