@@ -1,7 +1,7 @@
 import React from 'react';
 import { FlatList } from 'react-native';
 
-// Import getNews function from news.js
+// Import getNews from news.js
 import { getNews } from './src/news';
 import Article from './src/components/Article';
 
