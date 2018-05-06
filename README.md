@@ -5,5 +5,5 @@
 * Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/), [npm](https://Nodejs.org), and [React Native](https://facebook.github.io/react-native/).<br />
 * Install the dependencies by runinning ```npm install``` in your terminal<br /><br />
 
-**Feel free to make a pull request😄**<br />
+**Feel free to make a pull request😄**<br /><br />
 ![mobile preview](https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg)
