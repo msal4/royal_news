@@ -1,5 +1,6 @@
+// Change YOUR_API_KEY_HERE to your apiKey
 const url =
-  "https://newsapi.org/v2/top-headlines?country=us&apiKey=79af8a0825ba4443adf9c1f76f8913cb";
+  "https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY_HERE";
 
 export async function getNews() {
   let result = await fetch(url).then(response => response).then(response => response.json());
