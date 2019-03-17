@@ -10,6 +10,7 @@
 
 ---
 
+
 ## License
 
 Royal News is [MIT licensed](./LICENSE).
